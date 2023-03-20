@@ -2,26 +2,12 @@
 {% include header.html %}
 
 <section>
-<<<<<<< HEAD
 <input type="text" class="quicksearch" placeholder="Search" />
 <ul id="columnlist">
 {% assign post = site.posts | sort: 'title' %}
 <li>
 <a href="/wiki{{ post.url }}" >{{ post.title }} <span class="tagline">{{post.tags | array_to_sentence_string: "+"}}</span></a>
 </li>
-=======
-<article class="fullwidth">
-<h2>{{page.title}}</h2> 
-{{content}}
-<input type="text" class="quicksearch" placeholder="Buscar" />
-<ul id="columnlist">
-{% assign post = site.posts | sort: 'title' %}
-{% for post in site.posts  %}
-{% if post.category == "memex" %}
-<li class="{{post.tags}}"><a href="{{ post.url }}" >{{ post.title }}<span class="dn">{{post.tags}}</span></a></li>
-{% endif %}
-{% endfor %}     
->>>>>>> parent of e4c60b1 (Update memex.html)
 </ul>
 </section>
 
