@@ -1,0 +1,37 @@
+---
+id: 9882
+title: 'The Infidel and the Professor: David Hume, Adam Smith, and the Friendship That Shaped Modern Thought'
+date: '2021-01-12T10:06:16+00:00'
+author: crodrigoturner
+excerpt: 'Highlights from the book on two great scottish thinkers by Dennis C. Rasmussen.'
+layout: post
+guid: 'https://www.carlosrodrigo.com/?p=9882'
+permalink: /the-infidel-and-the-professor-david-hume-adam-smith-and-the-friendship-that-shaped-modern-thought/
+---
+
+Indeed, Hume proposed a small thought experiment to prove Aristotle’s point. “Let all the powers and elements of nature conspire to serve and obey one man,” he suggests. “Let the sun rise and set at his command: The sea and rivers roll as he pleases, and the earth furnish spontaneously whatever may be useful or agreeable to him. He will still be miserable, till you give him some one person at least, with whom he may share his happiness, and whose esteem and friendship he may enjoy.”  
+Aristotle divides friendships into three types: those motivated by utility, those motivated by pleasure, and—the highest and rarest of the three—those motivated by virtue or excellence. Smith draws a similar distinction in The Theory of Moral Sentiments, though he insists that the latter alone “deserve the sacred and venerable name of friendship.”18  
+both of these thinkers embraced the core ideals associated with the liberal tradition, stressing the benefits of the rule of law, limited government, religious toleration, freedom of expression, private property, and commerce. They  
+In 1735 he counseled a young friend that “there is nothing to be learnt from a Professor, which is not to be met with in Books.… I see no reason why we shou’d either go to an University, more than to any other place, or ever trouble ourselves about the Learning or Capacity of the Professor.” Hume  
+Hume reports in My Own Life that “my studious disposition, my sobriety, and my industry, gave my family a notion that the law was a proper profession for me; but I found an insurmountable aversion to every thing but the pursuits of philosophy and general learning;  
+in Hume’s view we simply find certain character traits—say, industriousness and cheerfulness—to be useful or agreeable, and we therefore approve of them.  
+This is all morality is, for Hume: an eminently practical human convention whose entire purpose is to make people’s lives go better.  
+The following year Hume brought out a second volume of essays, the highlight of which was a series of pieces titled “The Epicurean,” “The Stoic,” “The Platonist,” and “The Sceptic.” Rather than a dry discussion of the ancient philosophical sects named in the titles, these essays provide lively explorations of the attractions and shortcomings of four conceptions of the good life: the life of pleasure, the life of virtue, the life of religious devotion, and the life of the skeptic.  
+Hume had drawn a similar lesson in the first essay of the first volume, “Of the Delicacy of Taste and Passion,” which is one of the underappreciated gems of his corpus. The basic argument of this piece is that the cultivation of the liberal arts is quite simply the secret to happiness. This is true, in the first place, because a person of refined taste is able to “place his happiness on such objects chiefly as depend upon himself,” since “we are pretty much masters of what books we shall read, what diversions we shall partake of, and what company we shall keep.”  
+Those who find genuine happiness in a good book or a conversation with a good friend, for instance, are far more likely to find it within their reach than those who desire immense fame or fortune.  
+Hume defines a miracle as a violation of the laws of nature, by which he means our uniform experience of how nature works.  
+Examples of a miracle in this sense might include the parting of a sea or a person walking on water or being resurrected from the dead. When we hear or read of such a miracle having occurred, he says, we should proportion our belief to the evidence, as we  
+would for any kind of report concerning a matter of fact. Since the purported miracle (by definition) violates all of our past experience, the evidence in its favor would have to be incredibly strong in order to establish its credibility. In weighing the testimony, we would need to consider the intelligence, the character, and the motives of the person making the report, as well as the circumstances under which the alleged miracle was witnessed.  
+he “merely” argues that it is never reasonable to believe a report of a miracle having occurred.  
+Drawing on his earlier arguments in the Treatise, he challenged the popular Whig notion of an “original contract,” according to which all legitimate political authority rests solely on the consent of the people expressed in the form of a social contract, as well as the Tory doctrine of “passive obedience,” according to which political authority is sacred and thus inviolable.  
+that “moral causes” such as a nation’s government, economy, and religion have a greater impact  
+than “physical causes” such as climate and terrain.  
+Nietzsche’s remark that true philosophers never marry and that Socrates did so only ironically.)  
+During his years at Oxford Smith composed a remarkable work titled The Principles Which Lead and Direct Philosophical Enquiries, which consists of three related essays.26  
+Smith argues that human beings engage in science primarily in hopes of “sooth\[ing\] the imagination” by accounting for the “chaos of jarring and discordant appearances.”29 That is to say, when we come across unusual or perplexing phenomena—the irregular movements of the stars and planets, for instance—the tranquility of our minds is disrupted. Our inability to comprehend such phenomena frustrates our craving for a sense of order and coherence.  
+Science is, in Smith’s view, a way of allaying our bewilderment by explaining the apparently inexplicable.  
+Treatise, there is a certain parallel between them: Smith’s and Hume’s first works both convey deeply skeptical assessments of the power and scope of human reason, and both served as prolegomena of sorts to their more constructive works.  
+Smith’s view, then, the first religions were, like later scientific theories, inventions of the imagination designed to explain the inexplicable and thereby satisfy the human mind. Gods were created by human beings rather than the other way around, and they were created as a direct result of human ignorance.  
+It was the desire to explain the world as a coherent whole, on Smith’s telling, that first led to “the idea of a universal mind, of a God of all, who originally formed the whole, and who governs the whole by general laws.”  
+Hume claims that this is the case with “celibacy, fasting, penance, mortification, self-denial, humility, silence, solitude, and the whole train of monkish virtues.” These qualities, he says, “serve to no manner of purpose; neither advance a man’s fortune in the world, nor render him a more valuable member of society; neither qualify him for the entertainment of company, nor encrease his power of self-enjoyment.”  
+On the contrary, they “cross all these desirable ends; stupify the understanding and harden the heart, obscure the fancy and sour the temper.”
